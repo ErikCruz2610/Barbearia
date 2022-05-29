@@ -38,7 +38,8 @@ session_start();
             <div class="faixa-etaria">
             <label for="servicos">Faixa Etária do Cliente</label>
               <select class="form-control" id="clientes" name="cliente" onChange="alteraSelect()">
-                <option value="description">Selecione a Faixa etária de quem vai ser atendido</option>
+                <option value="description">S
+                  elecione a Faixa etária de quem vai ser atendido</option>
                 <option value="crianca">Criança(até 12 anos)</option>
                 <option value="adolescente">Adolescente(de 13 a 18 anos)</option>
                 <option value="adulto">Adulto</option>

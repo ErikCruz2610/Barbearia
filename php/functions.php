@@ -23,6 +23,7 @@ include_once("conect.php");
                 $cliente = $_POST['cliente'];
                 $obs = $_POST['obs'];
                 $data_agendamento = date('d/m/Y');
+                
 
                 // impressão teste dos dados recebidos
                 echo "nome: $nome<br>";
